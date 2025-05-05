@@ -1,1 +1,1 @@
-thisis the first gomycode project
+this is the first gomycode project
